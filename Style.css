@@ -1,0 +1,12 @@
+h1{
+     color: #996608;
+     font-family: Georgia, 'Times New Roman', Times, serif;
+     font-weight: bold;
+     text-align: center;
+     background-color: aquamarine;
+     
+}
+
+.card-body{
+    background-color: rgb(226, 212, 233);
+}
